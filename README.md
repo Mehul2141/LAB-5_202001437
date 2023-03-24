@@ -7,7 +7,7 @@ Language : python
 <br>
 <h2>1. config.py</h2>
 <br>
-![1](https://user-images.githubusercontent.com/91714235/227482964-af89b2b7-1237-474e-82e9-754fb0c6e518.png)
+<img src="https://user-images.githubusercontent.com/91714235/227482964-af89b2b7-1237-474e-82e9-754fb0c6e518.png"></img>
 <br>
 <br>
 <strong>ERROR EXPLANATION</strong> : 
@@ -17,8 +17,8 @@ final newline missing,This particular error is common if you forget to append a 
 
 <h2>2. manage.py</h2>
 <br>
-![2](https://user-images.githubusercontent.com/91714235/227483042-8d6bd859-fabf-453f-82b2-0ff7382d585f.png)
 
+<img src="https://user-images.githubusercontent.com/91714235/227483042-8d6bd859-fabf-453f-82b2-0ff7382d585f.png"></img>
 <br>
 <br>
 <strong>ERROR EXPLANATION</strong> : 
@@ -28,7 +28,8 @@ unable to import 'flask_script' ,The imported class is unavailable.
 
 <h2>3. print.py</h2>
 <br>
-![3](https://user-images.githubusercontent.com/91714235/227483097-13efa6ae-f497-4f0f-87f0-d9adad7152dd.png)
+
+<img src="https://user-images.githubusercontent.com/91714235/227483097-13efa6ae-f497-4f0f-87f0-d9adad7152dd.png"></img>
 <br>
 <br>
 <strong>ERROR EXPLANATION</strong> : 
@@ -38,7 +39,7 @@ same as 1.
 
 <h2>4. resettingsql.py</h2>
 <br>
-![4](https://user-images.githubusercontent.com/91714235/227483157-4c45917e-c9d5-4fbd-bf06-7bd1ef370549.png)
+<img src="https://user-images.githubusercontent.com/91714235/227483157-4c45917e-c9d5-4fbd-bf06-7bd1ef370549.png"></img>
 <br>
 <br>
 <strong>ERROR EXPLANATION</strong> : 
